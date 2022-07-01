@@ -10,7 +10,7 @@ public class Pessoa {
     }
 
     public void dormir() {
-        System.out.println("Estou com sono, vou d   ormir!");
+        System.out.println("Estou com sono, vou dormir!");
     }
 
     public void estudar() {
